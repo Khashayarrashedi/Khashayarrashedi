@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Khashayarrashedi
-- 👀 I’m interested in AI, Tennis and Basketball.
-- 🌱 I’m currently learning python to procceed through the ML and AI.
-- 💞️ I’m looking to collaborate on Power BI projects integrated python coding
+- 👀 I’m interested in AI, ML.
+- 💞️ I’m looking to collaborate on Power BI projects integrated with Python coding.
 - 📫 How to reach me: rashedi.khashayar@gmail.com
 
 <!---
