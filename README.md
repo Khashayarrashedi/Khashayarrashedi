@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Khashayarrashedi
+- 👋 Hi, I’m @Kai
 - 👀 I’m interested in AI, ML.
 - 💞️ I’m looking to collaborate on Power BI projects integrated with Python coding.
 - 📫 How to reach me: rashedi.khashayar@gmail.com
